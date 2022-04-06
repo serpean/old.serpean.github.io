@@ -129,7 +129,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Author: Sergio Pérez
+- title: Author Sergio Pérez
   url: https://serpean.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
